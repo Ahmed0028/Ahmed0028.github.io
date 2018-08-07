@@ -2,7 +2,7 @@
 output: html_document
 chunk_output_type: console
 ---
-EDA on Prosper Loan Data by Dilip Rajkumar
+EDA on Prosper Loan Data by Ahmed Mohamed
 ========================================================
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
